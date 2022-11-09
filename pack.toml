@@ -1,0 +1,13 @@
+name = "Gaycraft Pack"
+author = "Octal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48665f31e28de4ded295ee61d8331898b8026396441cebab07616212ec5df7de"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.10"

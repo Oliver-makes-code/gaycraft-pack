@@ -1,0 +1,60 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+
+[[files]]
+file = "mods/affectionate.pw.toml"
+hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
+metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "10924756a73ac458c4ff94ee4c6e0f0591fb2650e56511d779eb3b280624d871"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "186987bc3f451d929e42bab5dc391ca07a6badd7ade2c3ac7c4b6a291d6f44b5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "27155a40b8912c5cf82db81d3a65ccd2fd1bdf70d149e08fa291e8b179d78e49"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "d5b2f9d8624b485a9730cc7ad5d73349e969231f40bc4afbc64a48ebff9b39c0"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3852f130112625c1bbd4e5e773afa2487b7da84256e1d4642f8435552f41d832"
+metafile = true
