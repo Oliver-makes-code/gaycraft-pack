@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
 
 [[files]]
+file = "mods/Botania-1.19.2-436-FABRIC-SNAPSHOT.jar"
+hash = "bc21fc5b3c1f540c9b56f0e22c4d31b7e05101cb9282856fd8a61befeed78148"
+
+[[files]]
 file = "mods/affectionate.pw.toml"
 hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
 metafile = true
@@ -18,6 +22,20 @@ metafile = true
 file = "mods/aurorasdecorations.pw.toml"
 hash = "10924756a73ac458c4ff94ee4c6e0f0591fb2650e56511d779eb3b280624d871"
 metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric-1.19.2-0.5.0f-764.jar"
+hash = "7a9c29834849ddbbeaecec65886cc768619026d2ccb95a77c1c9c5202b46ee22"
 
 [[files]]
 file = "mods/ears.pw.toml"
@@ -45,6 +63,11 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
@@ -57,4 +80,9 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3852f130112625c1bbd4e5e773afa2487b7da84256e1d4642f8435552f41d832"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
 metafile = true
