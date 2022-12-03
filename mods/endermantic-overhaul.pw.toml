@@ -1,0 +1,13 @@
+name = "Endermantic Overhaul"
+filename = "endermantic-overhaul-2.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z6wyW8O1/versions/wfqzAeVQ/endermantic-overhaul-2.0.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "e4a46c57da0e5ebb67bdf7997a8a04a025e4adcb"
+
+[update]
+[update.modrinth]
+mod-id = "Z6wyW8O1"
+version = "wfqzAeVQ"

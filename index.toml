@@ -6,7 +6,7 @@ hash = "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
 
 [[files]]
 file = "mods/Botania-1.19.2-436-FABRIC-SNAPSHOT.jar"
-hash = "bc21fc5b3c1f540c9b56f0e22c4d31b7e05101cb9282856fd8a61befeed78148"
+hash = "99ec2816bac4212b27a496591deded6fe5e1882c3986053ed2af3057be71e3dc"
 
 [[files]]
 file = "mods/affectionate.pw.toml"
@@ -34,12 +34,28 @@ hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-1.19.2-0.5.0f-764.jar"
-hash = "7a9c29834849ddbbeaecec65886cc768619026d2ccb95a77c1c9c5202b46ee22"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
+file = "mods/endermantic-overhaul.pw.toml"
+hash = "d2fb4918ecf67098fd12d2995a990c3461f2e222e89850eaa09c0f727237dd2d"
 metafile = true
 
 [[files]]
@@ -48,8 +64,23 @@ hash = "186987bc3f451d929e42bab5dc391ca07a6badd7ade2c3ac7c4b6a291d6f44b5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "23e4f2d3c20bc3822140b194d527ad8a0432c67b6fe26af564e1268dae8e0503"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "27155a40b8912c5cf82db81d3a65ccd2fd1bdf70d149e08fa291e8b179d78e49"
+metafile = true
+
+[[files]]
+file = "mods/matchbox.pw.toml"
+hash = "9c9e53faff783784eec9c61aebd38368ebfd6c1a730f46941ad84b49a68c1902"
 metafile = true
 
 [[files]]
@@ -68,13 +99,18 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
+hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
 metafile = true
 
 [[files]]
